@@ -1,0 +1,86 @@
+
+.fancy-button {
+  background-color: blue;
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 5px;
+
+  box-shadow: 2px -1px 66px 39px rgba(0, 0, 0, 0.33) inset;
+  -webkit-box-shadow: 2px -1px 66px 39px rgba(0, 0, 0, 0.33) inset;
+  -moz-box-shadow: 2px -1px 66px 39px rgba(0, 0, 0, 0.33) inset;
+}
+
+.fancy-button:hover {
+  background-color: darkblue;
+  
+}
+.fancy-button:active {
+  background-color: blue;
+}
+
+
+.base-button {
+  color: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 5px;
+
+  box-shadow: 2px -1px 66px 39px rgba(0, 0, 0, 0.33) inset;
+  -webkit-box-shadow: 2px -1px 66px 39px rgba(0, 0, 0, 0.33) inset;
+  -moz-box-shadow: 2px -1px 66px 39px rgba(0, 0, 0, 0.33) inset;
+
+  
+}
+
+.base-button-blue {    
+  background-color: blue;
+}
+
+.base-button-blue:hover {
+  background-color: darkblue;
+  
+}
+.base-button-blue:active {
+  background-color: blue;
+}
+
+.base-button-green {    
+  background-color: green;
+}
+
+.base-button-green:hover {
+  background-color: darkgreen;
+  
+}
+.base-button-green:active {
+  background-color: green;
+}
+
+.base-button-grey {    
+  background-color: grey;
+}
+
+.base-button-grey:hover {
+  background-color: darkgrey;
+  
+}
+.base-button-grey:active {
+  background-color: grey;
+}
+
+.base-button-grey {    
+  background-color: grey;
+}
+
+.base-button-grey:hover {
+  background-color: darkgrey;
+  
+}
+.base-button-grey:active {
+  background-color: grey;
+}
